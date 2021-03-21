@@ -1,7 +1,7 @@
 ## Cristian Garcia Leon
 
 
-## Computer Science Student at the Univeersity of Oregon
+## Computer Science Student at the University of Oregon
 
 
 You can use the [editor on GitHub](https://github.com/cristiangarcial/cristiangarcial.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
